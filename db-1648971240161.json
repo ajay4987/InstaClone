@@ -1,0 +1,28 @@
+{
+  "user": [
+    {
+      "name": "Peter",
+      "location": "San Fransisco",
+      "likes": 164,
+      "description": "Beauty and Bold",
+      "PostImage": "./Mock-data/train.jpg",
+      "date": "new Date()"
+    },
+    {
+      "name": "Alex",
+      "location": "Russia",
+      "likes": 123,
+      "description": "Classy",
+      "PostImage": "./Mock-data/lambo.jpg",
+      "date": "new Date()"
+    },
+    {
+      "name": "Alesia",
+      "location": "San Fransisco",
+      "likes": 45,
+      "description": "Beautiful by nature",
+      "PostImage": "./Mock-data/bridge.jpg",
+      "date": "new Date()"
+    }
+  ]
+}

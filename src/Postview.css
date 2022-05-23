@@ -1,0 +1,19 @@
+.site-container {
+  text-align: center;
+}
+html {
+  font-size: 14px;
+}
+body {
+  line-height: 1.5;
+  color: black;
+  margin: 0;
+}
+
+.card-wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}

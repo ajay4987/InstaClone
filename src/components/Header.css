@@ -1,0 +1,46 @@
+.header {
+  height: 100px;
+  border: 1px solid grey;
+}
+
+.header > div {
+  display: inline-block;
+}
+
+img {
+  height: 70px;
+  width: 70px;
+}
+
+.txtHeader {
+  position: absolute;
+  top: 5px;
+  margin-left: 10px;
+  font-size: 56px;
+  color: blue;
+}
+
+.camera {
+  float: right;
+  margin-right: 100px;
+  cursor: pointer;
+}
+
+.camera > a {
+  height: 100%;
+  width: 100%;
+}
+
+.camera img {
+  height: 100px;
+  width: 140px;
+}
+
+.circle {
+  margin-left: 100px;
+  margin-top: 15px;
+}
+
+a {
+  text-decoration: none;
+}
